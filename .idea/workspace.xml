@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b48d0f57-6bc1-4241-ae61-e94880eddd50" name="Default" comment="" />
+    <list default="true" id="b48d0f57-6bc1-4241-ae61-e94880eddd50" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/DrunkException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/IPlayGames.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/PS4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/demo/test.class" afterPath="" />
+    </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +19,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -162,7 +174,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17000" />
+    <option name="totallyTimeSpent" value="21000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -198,9 +210,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
