@@ -64,7 +64,7 @@ public class ServiceController {
     @RequestMapping(value = "/BuilderTest",method = RequestMethod.GET)
     public String BuilderTest(){
         Student stu = new Student.Builder("icecode", 22, 178, 1)
-                .setSchoolName("BUPT").setProfession("Computer Science and Technology").setGradeNo(20091012).build();
+                .SchoolName("BUPT").Profession("Computer Science and Technology").GradeNo(20091012).build();
        return  stu.toString();
     }
 

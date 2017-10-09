@@ -62,38 +62,38 @@ public class Student {
             this.sex = sex;
         }
 
-        public Builder setSchoolName(String schoolName) {
+        public Builder SchoolName(String schoolName) {
             this.schoolName = schoolName;
             return this;
         }
 
-        public Builder setProfession(String profession) {
+        public Builder Profession(String profession) {
             this.profession = profession;
             return this;
         }
 
-        public Builder setGradeNo(int gradeNo) {
+        public Builder GradeNo(int gradeNo) {
             this.gradeNo = gradeNo;
             return this;
         }
 
 
-        public Builder setIdCard(String idCard) {
+        public Builder IdCard(String idCard) {
             this.idCard = idCard;
             return this;
         }
 
-        public Builder setStuNo(String stuNo) {
+        public Builder StuNo(String stuNo) {
             this.stuNo = stuNo;
             return this;
         }
 
-        public Builder setLabName(String labName) {
+        public Builder LabName(String labName) {
             this.labName = labName;
             return this;
         }
 
-        public Builder setDormitoryAddress(String dormitoryAddress) {
+        public Builder DormitoryAddress(String dormitoryAddress) {
             this.dormitoryAddress = dormitoryAddress;
             return this;
         }
